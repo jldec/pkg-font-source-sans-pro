@@ -1,0 +1,31 @@
+{
+  "name": "pub-pkg-font-source-sans-pro",
+  "version": "1.0.0",
+  "description": "pub-server package for publishing with the Source Sans Pro font",
+  "main": "pub-config.js",
+  "dependencies": {
+    "npm-font-source-sans-pro": "^0.0.3"
+  },
+  "devDependencies": {
+    "pub-pkg-show-font": "^1.1.1"
+  },
+  "files": [
+    "pub-config.js",
+    "source-sans-pro.css"
+  ],
+  "keywords": [
+    "pub-server",
+    "publish",
+    "markdown",
+    "font",
+    "source-sans-pro"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jldec/pub-pkg-font-source-sans-pro.git"
+  },
+  "scripts": {
+  },
+  "author": "Jürgen Leschner",
+  "license": "MIT AND OFL-1.1"
+}
